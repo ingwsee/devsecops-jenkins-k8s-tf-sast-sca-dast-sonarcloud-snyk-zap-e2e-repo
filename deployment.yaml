@@ -13,7 +13,7 @@ spec:
         app: asgbuggy
     spec:
       containers:
-      - name: asgbuggy
+      - name: ingsee
         image: 980620369639.dkr.ecr.us-west-2.amazonaws.com/asg
         imagePullPolicy: Always
         ports:
